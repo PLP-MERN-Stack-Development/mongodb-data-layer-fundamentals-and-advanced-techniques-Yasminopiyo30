@@ -7,3 +7,6 @@
 ```bash
 load("insert_books.js")
 load("queries.js")
+     OR
+db.books.find().count()
+db.books.find().pretty()
