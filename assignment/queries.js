@@ -1,4 +1,5 @@
-use plp_bookstore;
+//use plp_bookstore database;
+// Task 1: Data Insertion
 
 // Task 2: Basic CRUD
 print("=== Books in Fiction genre ===");

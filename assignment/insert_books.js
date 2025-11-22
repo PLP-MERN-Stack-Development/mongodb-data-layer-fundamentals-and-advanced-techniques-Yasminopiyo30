@@ -1,4 +1,4 @@
-use plp_bookstore;
+//use plp_bookstore database;
 
 db.books.insertMany([
   { title: "Things Fall Apart", author: "Chinua Achebe", genre: "Fiction", published_year: 1958, price: 1200, in_stock: true, pages: 209, publisher: "Heinemann" },
