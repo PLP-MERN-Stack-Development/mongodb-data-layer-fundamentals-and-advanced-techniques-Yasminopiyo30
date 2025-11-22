@@ -1,0 +1,9 @@
+# PLP Week 1 - MongoDB Assignment - Yasmin
+
+## How to run
+
+1. Make sure you have MongoDB Atlas or local MongoDB running
+2. Open mongosh and run:
+```bash
+load("insert_books.js")
+load("queries.js")
